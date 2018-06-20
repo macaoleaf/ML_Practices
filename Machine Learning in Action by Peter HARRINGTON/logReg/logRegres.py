@@ -2,7 +2,7 @@
 Created on Oct 27, 2010
 Logistic Regression Working Module
 @author: Peter
-@adjusted for python 3 by Z.S. Ye
+adjusted for python 3 by Z.S. Ye
 '''
 from numpy import *
 
